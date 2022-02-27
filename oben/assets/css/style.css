@@ -1506,8 +1506,10 @@ section {
 }
 .steps hr {
     border-color: #fff;
-    width: 90%;
-    margin: 19px auto 0 !important;
+    width: 88%;
+    margin-left: 5%;
+    margin-top: 20px;
+    /*margin: 19px auto 44px !important;*/
 }
 .step h2 {
     color: #fff;
@@ -1524,7 +1526,7 @@ section {
 }
 
 .step-3 .step-arrow {
-    right: 25%;
+    right: 40%;
     left: auto;
 }
 /* widget: Step Text Hover */
@@ -1694,7 +1696,7 @@ a.button-readmore {
 .centered {
   position: absolute;
   top: 0%;
-  right: 16px;
+  right: 60px;
   //transform: translate(-50%, -50%);
 }
 
