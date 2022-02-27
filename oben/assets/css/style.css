@@ -1459,7 +1459,7 @@ section {
     border-radius: 50%;
     color: #fff;
     position: absolute;
-    left: 23%;
+    left: 36%;
     bottom: -35px;
 }
 
@@ -1506,8 +1506,8 @@ section {
 }
 .steps hr {
     border-color: #fff;
-    width: 88%;
-    margin-left: 5%;
+    width: 87%;
+    margin-left: 6%;
     margin-top: 20px;
     /*margin: 19px auto 44px !important;*/
 }
